@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "⚠ Wiki světa Altera",
-    pageTitleSuffix: "",
+    pageTitle: "⚠🔹Wiki světa Altera🔸",
+    pageTitleSuffix: "tohle je suffix",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
