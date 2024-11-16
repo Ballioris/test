@@ -1,5 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Quartz 4
+tags:
+  - trpaslik
+  - rasy
+draft: false
 ---
 
 This is a blank Quartz installation.

@@ -1,3 +1,0 @@
-
-[[Měnový systém]]
-[[Další dodatky]]
