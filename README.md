@@ -1,3 +1,4 @@
+# I DONT OWN THIS... I ONLY MADE SMALL WEB WITH IT
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
