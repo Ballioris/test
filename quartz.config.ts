@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌟Altera🌟",
-    pageTitleSuffix: "| Bali vás má rád",
+    pageTitle: "🌃Altera🌃",
+    pageTitleSuffix: " | Bali vás má rád",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -45,11 +45,11 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          dark: "#077018",
+          secondary: "#0c5218",
+          tertiary: "#113418",
+          highlight: "#008c19",
+          textHighlight: "#067618",
         },
       },
     },
