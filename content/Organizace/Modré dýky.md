@@ -1,0 +1,1 @@
+no, nevíte nic zatím xd
