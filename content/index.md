@@ -9,6 +9,7 @@ Obsah:
 [[List sezení]]
 
 [[Lore]]
+
 [[O magii]]
 
 [[Měnový systém]]
