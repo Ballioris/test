@@ -2,5 +2,6 @@ Lidé se odpradávna vyhýbali pletichaření se s nadpřirozenem. Neboť míra 
 
 
 
-***Pravé jméno jest svatým klíčem, kterým zlatou bránu otevřeš. Tvůj poměr a postavení k němu je cestou, po které za ní půjdeš.`
+> [!quote]
+> ***Pravé jméno jest svatým klíčem, kterým zlatou bránu hvězd otevřeš. Tvůj poměr a postavení k němu samotnému je cestou, po které za ní půjdeš.***
 
